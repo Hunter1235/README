@@ -1,7 +1,9 @@
 Hunter Stiles
 
 Project 1
+
 https://github.com/Hunter1235/Project-1
+
 This program reads GDP data for the US and China.  It figures out the
 average yearly growth for each country and use it to predict the growth.
 until 2030.  It creates a graph showing the GDP for the US and China, that
@@ -12,8 +14,11 @@ was done a few weeks into the python course.
 
 
 Project 2
+
 https://github.com/Hunter1235/Project-2
+
 phone.py
+
 This is the main application,  
 I decided to make a softphone  and  found that twilio was a library that
 could create a client and place calls from a python application.  So I
@@ -37,7 +42,9 @@ answered using text to speech.
 
 
 Project 3
+
 https://github.com/Hunter1235/Project-3
+
 This application will scan the CVS website for locations in New Jersey
 that have vaccine appointments available. When new appointments become
 available, it will be recorded in a database. Then, if the newly recorded
